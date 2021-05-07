@@ -9,7 +9,7 @@ public class FileUtils {
 
     private static final DateTimeFormatter dateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
-    private static final String path = "C:\\Users\\Sergio\\IdeaProjects\\ED-SUBJECT\\ED-TourDeFrance\\resources\\";
+    private static final String path = "C:\\Users\\Sergio\\IdeaProjects\\ED-SUBJECT\\ED-TourDeFrance\\";
 
     private static final String fileName = "stats.txt";
 
